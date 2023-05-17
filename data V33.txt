@@ -37,9 +37,9 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
 "native_network_choice":"admob"
   
 
@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In the ever-evolving landscape of video games, the immersive experience of role-playing games (RPGs) continues to captivate players worldwide. ","photo2":"https://iili.io/HUQ9nmg.jpg"},
+  {"desc3":"One such game that has gained significant attention is Barvikha RP Game 2023. ","photo3":"https://iili.io/HUQ9CkF.jpg"},
+  {"desc4":"Developed by a talented team of game designers, Barvikha RP Game 2023 offers players a virtual playground where they can step into the shoes of various characters, ","photo4":"https://iili.io/HUQ9zhJ.jpg"},
+  {"desc5":"embark on thrilling quests, and explore a meticulously crafted open world.","photo5":"https://iili.io/HUQ9xIa.jpg"},
+  {"descd":"This article aims to delve into the fascinating aspects of Barvikha RP Game 2023, its gameplay mechanics, immersive world-building,","photod":"https://iili.io/HUQ9ILv.webp"}
    ]
  
 }
